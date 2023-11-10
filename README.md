@@ -5,4 +5,5 @@
 
 <p>연습하는 곳입니다</p>
 
-<p style="color:blue;">i am 신뢰에요</p>
+<p>소통해요</p>
+<p>i am 신뢰에요</p>
