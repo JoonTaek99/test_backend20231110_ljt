@@ -3,9 +3,6 @@
 
 <h1>안녕하세요</h1>
 
-<p>젠장 또 신무형이야</p>
+<p>소통해</p>
 
-
-
-
-![sin](https://github.com/JoonTaek99/test_backend20231110_ljt/assets/90593455/9fa3db4d-f8bd-4fb6-848f-8d59c3e595e0)
+![pika](https://github.com/JoonTaek99/test_backend20231110_ljt/assets/90593455/17726ac0-6158-4a37-a178-8d5c4944941d)
